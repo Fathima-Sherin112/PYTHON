@@ -1,0 +1,18 @@
+# Day 29: Middle Figure in Python!
+# Today's challenge was about writing a function that takes two strings, joins them, and finds the middle element. 
+# If the combined string has a middle element, the function returns it; otherwise, it returns "no middle figures".
+
+
+# 🔹 Features Implemented:
+# ✅ Removes spaces before joining the strings
+# ✅ Checks if the combined string length is odd or even
+# ✅ Returns the middle character if length is odd
+# ✅ Returns "no middle figures" if length is even
+
+# Example Runs:
+# Input: make love, not wars
+# Output: e
+# Input: good, luck
+# Output: no middle figures
+
+
